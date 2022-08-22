@@ -88,5 +88,5 @@ KANIKA<br>
 SUBRAMANIYAN<br>
 KAVIN V<br>
 AHAMED THAIYUB A<br>
-we also mentioned the MIT license also<br>
+we also attached the MIT license also<br>
 thank you for giving us this greatest oppurtunity....✨✨
