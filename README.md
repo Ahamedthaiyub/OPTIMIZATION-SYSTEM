@@ -12,7 +12,7 @@ predicting the future of the company . since it is much more easier to
 find the difficulties that particular company . we (tech freaks) has also 
 mentioned the distance between the place and also routed with 
 powerbi .I’m damn surely saying that this project will definitely 
-helpful in the big companies also.
+helpful in the big companies also. we also used other csv files also for other companies like  google and other and that also we mentioned in the above file(HACKATHON 1,2,4) 
 MODULES WE USED
 In this optimization system we have used many modules like ;
 Matplotlib
@@ -29,9 +29,10 @@ work
 TEAM TECH 
 FREAKS
 This project is 
-completely done by 
-DHIVYA P
-KANIKA 
-SUBRAMANIYAN
-KAVIN V
-AHAMED THAIYUB A
+completely done by <br>
+DHIVYA P<br>
+KANIKA<br> 
+SUBRAMANIYAN<br>
+KAVIN V<br>
+AHAMED THAIYUB A<br>
+thank you for giving us this greatest oppurtunity....✨✨
