@@ -87,5 +87,4 @@ DHIVYA P<br>
 KANIKA<br> 
 KAVIN V<br>
 AHAMED THAIYUB A<br>
-we also attached the MIT license also<br>
-thank you for giving us this greatest oppurtunity....✨✨
+
