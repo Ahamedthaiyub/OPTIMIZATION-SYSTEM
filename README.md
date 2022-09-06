@@ -85,7 +85,6 @@ This project is
 completely done by <br>
 DHIVYA P<br>
 KANIKA<br> 
-SUBRAMANIYAN<br>
 KAVIN V<br>
 AHAMED THAIYUB A<br>
 we also attached the MIT license also<br>
