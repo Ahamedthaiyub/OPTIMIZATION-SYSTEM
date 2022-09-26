@@ -76,10 +76,7 @@ F1 score is used as the evaluation metric, so that it can balance both the class
 
 
 
-TECH FREAKS are damn sure that this project will obviously
-work
-TEAM TECH 
-FREAKS
-
-AHAMED THAIYUB A<br>
+this project is done for hackathon on 2022.
+by-<a>
+##<b> AHAMED THAIYUB<b>
 
