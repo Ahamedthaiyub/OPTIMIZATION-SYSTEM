@@ -77,6 +77,6 @@ F1 score is used as the evaluation metric, so that it can balance both the class
 
 
 this project is done for hackathon on 2022.
-by-<a>
-##<b> AHAMED THAIYUB<b>
+by-<br>
+## <b> AHAMED THAIYUB<b>
 
