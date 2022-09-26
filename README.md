@@ -76,15 +76,10 @@ F1 score is used as the evaluation metric, so that it can balance both the class
 
 
 
-
-We TECH FREAKS are damn sure that this project will obviously
+TECH FREAKS are damn sure that this project will obviously
 work
 TEAM TECH 
 FREAKS
-This project is 
-completely done by <br>
-DHIVYA P<br>
-KANIKA<br> 
-KAVIN V<br>
+
 AHAMED THAIYUB A<br>
 
