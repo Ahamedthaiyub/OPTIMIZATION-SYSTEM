@@ -1,4 +1,4 @@
-# elpishackathon
+
  # ABSTRACT
 # RESOURCE OPTIMIZATION SYSTEM
 # ABOUT
