@@ -1,82 +1,25 @@
+### optimization system 
 
- # ABSTRACT
-# RESOURCE OPTIMIZATION SYSTEM
-# ABOUT
-# Machine-learning-
-In this reposit you can find different models built for a classification problem.
+### Abstract:
 
+In this article, we present a resource optimization system that utilizes machine learning and deep learning techniques to improve the performance of companies. The system takes advantage of API keys for time manipulation and mapping of origin and destination addresses, and employs tools like Matplotlib, Seaborn, Chart Studio, Scikit-learn, Keras, Numpy, and Pandas to create a comprehensive solution. This project was completed as part of a hackathon in 2022, and its results are promising in terms of its potential to help companies predict their future and make improvements accordingly.
 
-## open folder for the dataset & the python file. 
-In this project we create a resource optimization system with the help 
-of machine learning attributes and some deep learning modules and 
-we also use API keys for time manipulation and for mapping the origin 
-and the destination address . we also plotted several graphs using 
-matplotlib , seaborn and chart_studio to make a better solution for 
-the company . by this system we can improve our company better by 
-predicting the future of the company . since it is much more easier to 
-find the difficulties that particular company . we (tech freaks) has also 
-mentioned the distance between the place and also routed with 
-powerbi .I’m damn surely saying that this project will definitely 
-helpful in the big companies also. we also used other csv files also for other companies like  google and other and that also we mentioned in the above file(HACKATHON 1,2,4) 
-MODULES WE USED
-In this optimization system we have used many modules like ;
-Matplotlib
-Seaborn
-Chart studio
-Skilearn 
-Scikit
-Keras
-Time stamp
-API key for mapping 
-Numpy’s and pandas
-## Predict employee attrition:
+### Introduction:
 
-# Procedures: 
+In today's competitive business world, companies face a range of challenges, from employee attrition to resource optimization. One of the most pressing issues for many organizations is employee attrition, which is a major concern for companies and often leads to significant costs associated with retraining and loss of productivity. To address this issue, a data science consulting firm has taken the initiative to build a machine learning model that can predict employee attrition, given the employee performance data collected by the company.
 
-## 1. Understanding the business problem. 
+The goal of this project is to develop a resource optimization system that uses machine learning and deep learning techniques to improve the performance of companies. In addition, the system takes advantage of API keys for time manipulation and mapping of origin and destination addresses, which helps to provide a more comprehensive solution. Furthermore, the system employs various visualization tools like Matplotlib, Seaborn, and Chart Studio to better understand the data and make more informed predictions.
 
-Employee Attrition is a huge problem across industries and generally costs the company a lot for
-hiring, retraining, productivity and work loss for each employee who leaves. Price and Waters, a
-boutique data science consulting firm, is looking to build a Machine Learning model to predict
-whether an Employee might quit. Using this model, they might plan human intervention to alleviate
-the issues faced by the employee. The firm is also interested in specific features that are highly
-indicative of attrition.
-The company in a pilot program, recorded employee data. The company collected employee
-performance data for some of the months randomly for each employee to understand it in the context of attrition.
-The company wants you to predict whether an employee would quit in the near future, given the data and to discover features
-indicative of attrition.
+### Methods:
 
+The first step in building this resource optimization system was to understand the business problem. The data science consulting firm collected employee performance data over a period of time, which was then used to build the machine learning model. In order to convert this problem into a data science problem, a classification model was built to predict whether an employee was likely to quit or not.
 
-## 2. Converting into a data science problem. 
+The next step was to explore the data through Exploratory Data Analysis (EDA). This involved visualizing the data using tools like Seaborn and Matplotlib, and getting a summary of the data to better understand the characteristics of the employees and the reasons why they may leave.
 
-What can be done here is , we can build classification model weather the employee will leave or not with the given demographs.
+After the EDA, the data was preprocessed to remove unnecessary columns, fill in any missing data, and convert it into an appropriate format for analysis. This was followed by feature engineering, which involved creating new columns from the existing data to better understand the relationships between the variables.
 
-## 3. Exploring the data.(EDA)
+To handle the issue of class imbalance in the target variable, the training data was over-sampled using the Synthetic Minority Over-sampling Technique (SMOTE). Finally, the model was built and evaluated using the F1 score as the evaluation metric, as this allowed for a balanced consideration of both classes.
 
-Explorating the given data like  the columns given by visualising or by getting the summary stats of the data.
+### Conclusion:
 
-Packages used here for this visulaization are seaborn, matplotlib. 
-
-## 4. Preprocessing of the data. 
-
-Preprocessing includes removal of un-necessary columns, filling the missing data & converting the data into appropriate changes.
-
-## 5. Feature engineering. 
-
-Using the existing columns to create new columns. 
-
-
-### Techniques 
-
-Using SMOTE to over sample the training data since the target variable is highly class imbalanced. 
-
-## 6. Model building & Evaluation.
-
-F1 score is used as the evaluation metric, so that it can balance both the classess. 
-
-
-
-this project is done for hackathon on 2022.
-by-<br>
-## <b> AHAMED THAIYUB<b>
-
+In conclusion, this resource optimization system has the potential to be a valuable tool for companies to predict their future performance and make necessary improvements. By utilizing machine learning and deep learning techniques, along with various visualization tools, this system is able to provide a comprehensive solution that can help companies to better understand their data and make more informed decisions. Although the project was completed as part of a hackathon in 2022, its results are promising and could have a significant impact on the future of business operations.
