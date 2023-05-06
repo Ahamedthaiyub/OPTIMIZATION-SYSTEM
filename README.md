@@ -23,3 +23,4 @@ To handle the issue of class imbalance in the target variable, the training data
 ### Conclusion:
 
 In conclusion, this resource optimization system has the potential to be a valuable tool for companies to predict their future performance and make necessary improvements. By utilizing machine learning and deep learning techniques, along with various visualization tools, this system is able to provide a comprehensive solution that can help companies to better understand their data and make more informed decisions. Although the project was completed as part of a hackathon in 2022, its results are promising and could have a significant impact on the future of business operations.
+## To know more abut my project contact me :ahamedthaiyub27@gmail.com
