@@ -1,6 +1,6 @@
 ### optimization system 
 
-### Abstract
+### Abstract-
 
 In this article, we present a resource optimization system that utilizes machine learning and deep learning techniques to improve the performance of companies. The system takes advantage of API keys for time manipulation and mapping of origin and destination addresses, and employs tools like Matplotlib, Seaborn, Chart Studio, Scikit-learn, Keras, Numpy, and Pandas to create a comprehensive solution. This project was completed as part of a hackathon in 2022, and its results are promising in terms of its potential to help companies predict their future and make improvements accordingly.
 
