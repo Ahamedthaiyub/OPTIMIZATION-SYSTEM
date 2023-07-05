@@ -4,7 +4,7 @@
 
 In this article, we present a resource optimization system that utilizes machine learning and deep learning techniques to improve the performance of companies. The system takes advantage of API keys for time manipulation and mapping of origin and destination addresses, and employs tools like Matplotlib, Seaborn, Chart Studio, Scikit-learn, Keras, Numpy, and Pandas to create a comprehensive solution. This project was completed as part of a hackathon in 2022, and its results are promising in terms of its potential to help companies predict their future and make improvements accordingly.
 
-### Introduction-
+### Introduction
 
 In today's competitive business world, companies face a range of challenges, from employee attrition to resource optimization. One of the most pressing issues for many organizations is employee attrition, which is a major concern for companies and often leads to significant costs associated with retraining and loss of productivity. To address this issue, a data science consulting firm has taken the initiative to build a machine learning model that can predict employee attrition, given the employee performance data collected by the company.
 
